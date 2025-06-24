@@ -21,8 +21,9 @@ I used **Excel** and **Tableau** to clean, analyze, and visualize the data — d
 - **Managerial roles** showed more fairness than **manual labor roles**, highlighting a possible systemic bias in lower-tier compensation.
 
 ### 📁 Files:
-- `Equality Table - Original.xlsx`: The raw dataset
-- `Equality Table - Classified.xlsx`: My cleaned and classified dataset
+- [Equality Table - Original.xlsx](equality-score-analysis/Equality%20Table%20-%20Original.xlsx)
+- [Equality Table - Cleaned.xlsx](equality-score-analysis/Equality%20Table%20-%20Cleaned.xlsx)
+
 
 ---
 
@@ -42,10 +43,10 @@ I used **Excel** and **Tableau** to clean, analyze, and visualize the data — d
 - This suggests those specific machines may need preventive maintenance or vendor review.
 
 ### 📁 Files:
-- `Dashboard Screenshot.png`: Full interactive dashboard
-- `Down Time per Factory.png`: Factory-level breakdown
-- `Down Time per Device Type.png`: Device-level breakdown
-- `DownTimeDashboard.twbx`: Tableau workbook (optional)
+- [Dashboard.png](machine-downtime-analysis/Dashboard.png)
+- [Down Time per Factory.png](machine-downtime-analysis/Down%20Time%20per%20Factory.png)
+- [Down Time per Device Type.png](machine-downtime-analysis/Down%20Time%20per%20Device%20Type.png)
+
 
 ---
 
@@ -59,7 +60,7 @@ I used **Excel** and **Tableau** to clean, analyze, and visualize the data — d
 ---
 
 ## 📜 Certificate
-[🔗 View my Deloitte Forage Completion Certificate](#) *(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_wTgCduzYJrNm8dxdY_1748020437175_completion_certificate.pdf)*
+🔗 [View my Deloitte Forage Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_wTgCduzYJrNm8dxdY_1748020437175_completion_certificate.pdf)
 
 ---
 
